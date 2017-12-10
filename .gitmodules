@@ -1,0 +1,3 @@
+[submodule "adv-lib"]
+	path = adv-lib
+	url = https://github.com/lando2319/adv-lib
