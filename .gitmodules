@@ -1,3 +1,6 @@
 [submodule "adv-lib"]
 	path = adv-lib
 	url = https://github.com/lando2319/adv-lib
+[submodule "functions/modelsActual/adv-lib"]
+	path = functions/modelsActual/adv-lib
+	url = https://github.com/lando2319/adv-lib
