@@ -4,3 +4,4 @@
 [submodule "functions/modelsActual/adv-lib"]
 	path = functions/modelsActual/adv-lib
 	url = https://github.com/lando2319/adv-lib
+    branch = master
